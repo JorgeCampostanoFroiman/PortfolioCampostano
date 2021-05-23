@@ -1,0 +1,19 @@
+#proyectos {
+    text-align: center;
+    line-height: 50px;
+    
+}
+#proyectos h3{
+    font-size: 38;
+    border-style: groove;
+    background-color: rgb(19, 25, 34);
+    color:rgb(219, 217, 217);
+}
+
+#proyectos h4{
+    font-size: 45;
+    border-style: groove;
+    background-color: rgb(19, 25, 34);
+    color:rgb(219, 217, 217);
+
+}
