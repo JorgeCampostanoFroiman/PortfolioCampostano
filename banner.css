@@ -10,7 +10,7 @@
 #banner .contenedor {
     position: absolute;
     top: 80%;
-    left: 50%;
+    left: 90%;
     transform: translateX(-80%) translateY(-50%);
     color: #fff;
 }
@@ -19,6 +19,13 @@
     font-size: 28px;
 }
 
+@media (max-width:480px){
+    #banner h2{
+    font-size:12px;
+    margin-top: -20px;
+    margin-left: 50px;
+    }    
+}
 
 
 
