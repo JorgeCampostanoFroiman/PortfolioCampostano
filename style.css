@@ -49,7 +49,7 @@
         transition:all 500ms ease;
     }
     header nav a:hover {
-        background: #1b3fdd;
+        background: powderblue;
         border-radius:50px;
     }
 
@@ -174,7 +174,7 @@
     }
 
     footer nav a:hover {
-        background: #1b3fdd;
+        background: powderblue;
         border-radius:30px;
     }
 
@@ -219,6 +219,12 @@
         margin-top: 20px;
         border-radius: 7px;
     }
+
+    #redes i:hover {
+        background-color: powderblue;
+        transition: background-color .5s;
+    }
+
 
     @media screen and (max-width: 480px) {
         #redes{
